@@ -14,6 +14,10 @@
   &base=header,activity,community,repositories,metadata" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="Gatinho digitando" />
+</p>
+
 ---
 
 ## 🧪 Sobre
