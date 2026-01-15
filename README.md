@@ -38,6 +38,14 @@ Este repositório é usado como:
   <img src="https://skillicons.dev/icons?i=python,nodejs,js,ts,php,linux,docker,postgres,mysql" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcprojects35&show_icons=true&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marcprojects35&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcprojects35&layout=compact&theme=dark&hide_border=true" height="180" />
+</p>
+
 ---
 
 ## 🗂️ Estrutura
