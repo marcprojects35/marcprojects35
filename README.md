@@ -15,24 +15,24 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="Gatinho digitando" />
+  <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="Typing kitty" />
 </p>
 
 ---
 
-## 🧪 Sobre
+## 🧪 About
 
-Laboratório pessoal para projetos menores, estudos, cursos e trabalhos da faculdade.
+Personal lab for small projects, studies, courses, and college work.
 
-Este repositório é usado como:
-- espaço de aprendizado contínuo
-- testes e experimentos
-- versionamento de ideias
-- histórico técnico
+This repository is used as:
+- continuous learning space
+- tests and experiments
+- idea versioning
+- technical history
 
 ---
 
-## 🧠 Tecnologias Principais
+## 🧠 Main Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,js,ts,php,linux,docker,postgres,mysql" />
@@ -48,11 +48,11 @@ Este repositório é usado como:
 
 ---
 
-## 🗂️ Estrutura
+## 🗂️ Structure
 
 ```txt
 📦 black-lab
- ┣ 📁 faculdade-e-cursos
- ┣ 📁 estudos
- ┣ 📁 projetos-pequenos
- ┗ 📄 README.md
+ ┣ 📁 college-and-courses
+ ┣ 📁 studies
+ ┣ 📁 small-projects
+ ┗ 📄 README.md is my GitHub
