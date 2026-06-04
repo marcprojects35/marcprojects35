@@ -48,11 +48,3 @@ This repository is used as:
 
 ---
 
-## 🗂️ Structure
-
-```txt
-📦 black-lab
- ┣ 📁 college-and-courses
- ┣ 📁 studies
- ┣ 📁 small-projects
- ┗ 📄 README.md is my GitHub
