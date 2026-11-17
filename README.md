@@ -16,10 +16,7 @@
 
 Developer focused on building practical tools — from enterprise security systems to automation platforms. Interested in the intersection of security, backend architecture, and developer tooling.
 
-```bash
-$ whoami
-> full-stack developer · security enthusiast · builder
-```
+
 
 ---
 
