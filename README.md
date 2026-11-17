@@ -58,7 +58,7 @@ $ whoami
 |---------|-------------|-------|
 | [**VaultGuard**](https://github.com/marcprojects35/VaultGuard) | Corporate password manager with AES-256-GCM, LDAP integration, and Chrome autofill | Node.js · Docker · PostgreSQL |
 | [**WE-Envios**](https://github.com/marcprojects35/WE-Envios) | WhatsApp bulk messaging platform with real-time dashboard and delivery tracking | Node.js · WebSocket · Express |
-| [**SINA**](https://github.com/marcprojects35/Sina-Sistema-inteligente-de-notas-academicas) | Intelligent academic grade management system for educators | JavaScript · React |
+| [**SINA**](https://github.com/marcprojects35/sina-academic) | Intelligent academic grade management system for educators | JavaScript · React |
 | [**secret-scan**](https://github.com/marcprojects35/secret-scan) | Local-first CLI to detect exposed credentials and tokens in codebases | Python |
 | [**MusicCreator**](https://github.com/marcprojects35/MusicCreator) | Browser-based music production and editing program | JavaScript |
 
@@ -78,6 +78,20 @@ $ whoami
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=marcprojects35&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcprojects35/marcprojects35/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcprojects35/marcprojects35/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/marcprojects35/marcprojects35/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
